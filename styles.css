@@ -23,6 +23,14 @@ h1 {
     background-color: lightcoral;
 }
 
+#paint {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
 p {
     text-align: left;
     display: inline-block;
